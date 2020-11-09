@@ -5,7 +5,7 @@ Directory Structure:
 
 a) tomcat - this folder will have files related to the installation of tomcat
 
-     - files (This will contain files which you want to copy to to your destination servers)
+     - files (This will contain files which you want to copy to the destination servers)
 
      - handlers ( This is used to start/stop the services)
 
